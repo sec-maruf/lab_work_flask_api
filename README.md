@@ -1,4 +1,4 @@
-# lab_work_flask_api
+
 # Flask RESTful API Project
 
 A simple RESTful API built with Flask for managing person records, created as part of IBM's Python for AI Development course.
